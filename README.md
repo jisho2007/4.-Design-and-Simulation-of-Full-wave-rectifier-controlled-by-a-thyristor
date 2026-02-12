@@ -62,9 +62,12 @@ Phase delay or delay angle of Thyristor = 45 degree
 After analysing the simulated output,
 (i)Draw various simulated waveforms on the graph sheet
 (ii) Change the value of resistance to 2 ohm, simulate and draw the current waveform on the graph sheet.
-(iii) Change the firing angle to 90 degree, simulate and draw the Output voltage and current waveform on the graph sheet.
+(iii) Change the firing angle to 90 degree, simulate and draw the Output voltage and current waveform on the graph sheet.ent 
 (iv)Write your inference.
 
 ## Simulation
+<img width="1702" height="597" alt="image" src="https://github.com/user-attachments/assets/bcd30710-442c-4e56-891a-5715952c0222" />
 ## Output
+<img width="1897" height="947" alt="image" src="https://github.com/user-attachments/assets/e67237b8-d804-4e4d-8c21-3c4e549de88b" />
 ## Result
+Thus the experiment was simulated and output was verified
