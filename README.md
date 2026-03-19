@@ -9,6 +9,7 @@ To design, simulate and analyse a full wave rectifier controlled by thyristors u
 
 Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser. 
 
+
 2.	Click on NEW MODEL or go to FILE ⇒ NEW ⇒ MODEL and a new blank model is created as shown below
  <img width="572" height="382" alt="image" src="https://github.com/user-attachments/assets/9af61610-084a-4f5d-8e67-0924fd22c890" />
 
